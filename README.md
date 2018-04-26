@@ -14,3 +14,6 @@ when you write something you want to archive in your archive channel write one o
 or
 
 @Archivebot [channel name or beginning of channelname has to be uniqe identifiable] [text you want to archive]
+
+
+Remember to add your token in the code of the ArchiveBot
