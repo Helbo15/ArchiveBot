@@ -29,4 +29,4 @@ async def on_message(message):
             if channel.name.startswith(archiveChannel):
                 await client.send_message(channel, message.author.mention + " wrote:   " + message.content)
 
-client.run('NDM5MDU5OTQyMDc1NTMxMjY1.DcNp_Q.1gwXYuKJj0KHITX-eebFDQ_h1Jw')
+client.run('Token')
